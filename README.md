@@ -1,7 +1,7 @@
 ### aoba,me chamo Gustavo.Muito prazer👋
 
 
-- 👨‍💻 Atualmente estou estudando Programação 
+- 👨‍💻 Atualmente estou estudando Programação/Banco de Dados
 - 👨‍💻 Futuro Front-end
 - 💌 Contato comigo: gustaziro22@gmail.com
 
