@@ -19,8 +19,4 @@
  
   ![Snake animation](https://github.com/gustvoh/gustvoh/blob/output/github-contribution-grid-snake.svg)
  
-</div>
-© 2021 GitHub, Inc.
-Term
-  
--->
+  </div>
