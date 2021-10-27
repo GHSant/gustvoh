@@ -1,4 +1,4 @@
-### aoba,me chamo Gustavo.Muito prazer👋
+### aoba,Muito prazer👋
 
 
 - 👨‍💻 Atualmente estou estudando Programação/Banco de Dados
