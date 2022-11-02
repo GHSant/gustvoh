@@ -1,8 +1,8 @@
 ### aoba,Muito prazer👋
 
 
-- 👨‍💻 Atualmente estou estudando Programação/Banco de Dados
-- 👨‍💻 Futuro Front-end
+- 👨‍💻 Atualmente estou estudando Programação
+
 - 💌 Contato comigo: gustaziro22@gmail.com
 
 <div align = "center">
